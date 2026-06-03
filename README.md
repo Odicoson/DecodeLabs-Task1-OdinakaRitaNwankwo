@@ -4,7 +4,6 @@ A Rule-Based AI Chatbot built with Python.
 ## Features
 - Greetings & mood detection
 - Jokes, motivation, food, time & date
-- Colored terminal output
 - Personalized responses by name
 
 ## How to Run
